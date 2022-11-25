@@ -1,0 +1,15 @@
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\bin\Debug\net6.0\Skillbox.exe
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\bin\Debug\net6.0\Skillbox.deps.json
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\bin\Debug\net6.0\Skillbox.runtimeconfig.json
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\bin\Debug\net6.0\Skillbox.dll
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\bin\Debug\net6.0\Skillbox.pdb
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\obj\Debug\net6.0\Skillbox.csproj.AssemblyReference.cache
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\obj\Debug\net6.0\Skillbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\obj\Debug\net6.0\Skillbox.AssemblyInfoInputs.cache
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\obj\Debug\net6.0\Skillbox.AssemblyInfo.cs
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\obj\Debug\net6.0\Skillbox.csproj.CoreCompileInputs.cache
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\obj\Debug\net6.0\Skillbox.dll
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\obj\Debug\net6.0\refint\Skillbox.dll
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\obj\Debug\net6.0\Skillbox.pdb
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\obj\Debug\net6.0\Skillbox.genruntimeconfig.cache
+C:\Users\administrator\Documents\geina-repos\Skillbox\Skillbox\obj\Debug\net6.0\ref\Skillbox.dll
